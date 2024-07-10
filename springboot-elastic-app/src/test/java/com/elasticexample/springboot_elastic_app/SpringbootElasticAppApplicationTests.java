@@ -1,0 +1,13 @@
+package com.elasticexample.springboot_elastic_app;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringbootElasticAppApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
